@@ -1,8 +1,8 @@
 # KNN-KDE-reproducibility
 ## Reproduction of "Numerical Data Imputation for Multimodal Data Sets"
 
-## ORIGINAL RESEARCH CREDIT 
-**This repository contains a reproduction of the work below. All scientific credit belongs to the original authors.**
+### ORIGINAL RESEARCH CREDIT 
+***This repository contains a reproduction of the work below. All scientific credit belongs to the original authors.***
 
 | Detail | Information |
 | :--- | :--- |
